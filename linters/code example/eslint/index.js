@@ -14,8 +14,8 @@ a: 'ddj'
 }
 
 const ab = () => {
-console.log('dkdjj');
-console.log('kdk');
+  console.log('dkdjj');
+  console.log('kdk');
 }
 
 let x = (function () {
@@ -28,21 +28,21 @@ return {
 const String = "My String";
 
 const demo = {
-hasOwnProperty: 1
+  hasOwnProperty: 1
 };
 
 
-let x = {
-actual: 10,
-get y() {
-    "use strict";
-    return this.actual / 2;
-},
-set y() {
-    "use strict";
-    this.actual = val;
-}
-};
+// let xhf = {
+//   actual: 10,
+//   get y() {
+//       "use strict";
+//       return this.actual / 2;
+//   },
+//   set y() {
+//       "use strict";
+//       this.actual = val;
+//   }
+// };
 
 var xv = 1,
   yv = 10;
@@ -50,7 +50,7 @@ var xv = 1,
 xv++;
 yv--;
 
-let x = {
+let xdsd = {
 default: 10
 };
 
@@ -59,7 +59,7 @@ class Cat {
 
 }
 
-const a = "10",
-  b = 5 - -a;
+const asasa = "10",
+  b = 5 - -asasa;
 
 ab();
